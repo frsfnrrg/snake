@@ -1,0 +1,4 @@
+snake
+=====
+
+yet another variant
