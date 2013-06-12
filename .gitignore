@@ -1,5 +1,6 @@
 *.py[cod]
 *.png
+.directory
 highscores_individual.txt
 highscores_levelset.txt
 options.txt
